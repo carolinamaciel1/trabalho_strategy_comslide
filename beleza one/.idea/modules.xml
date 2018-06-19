@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beleza one.iml" filepath="$PROJECT_DIR$/.idea/modules/beleza one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beleza_one.iml" filepath="$PROJECT_DIR$/.idea/modules/beleza_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beleza_one_main.iml" filepath="$PROJECT_DIR$/.idea/modules/beleza_one_main.iml" group="beleza_one" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beleza_one_test.iml" filepath="$PROJECT_DIR$/.idea/modules/beleza_one_test.iml" group="beleza_one" />
+    </modules>
+  </component>
+</project>

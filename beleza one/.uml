@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="356.054183560634" y="181.2558053814965">Gold</node>
+    <node x="248.054183560634" y="181.2558053814965">Normal</node>
+    <node x="1.0541835606339873" y="181.2558053814965">Funcionario</node>
+    <node x="132.054183560634" y="181.2558053814965">Platinum</node>
+    <node x="240.554183560634" y="102.2558053814965">Descontos</node>
+    <node x="251.66255068190196" y="246.5514190932546">Cliente</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Platinum" target="Descontos">
+      <point x="0.0" y="-14.5" />
+      <point x="180.054183560634" y="161.2558053814965" />
+      <point x="271.45418356063396" y="161.2558053814965" />
+      <point x="-20.600000000000023" y="14.5" />
+    </edge>
+    <edge source="Funcionario" target="Descontos">
+      <point x="0.0" y="-14.5" />
+      <point x="56.55418356063399" y="151.2558053814965" />
+      <point x="250.854183560634" y="151.2558053814965" />
+      <point x="-41.19999999999999" y="14.5" />
+    </edge>
+    <edge source="Gold" target="Descontos">
+      <point x="0.0" y="-14.5" />
+      <point x="392.554183560634" y="161.2558053814965" />
+      <point x="312.654183560634" y="161.2558053814965" />
+      <point x="20.600000000000023" y="14.5" />
+    </edge>
+    <edge source="Cliente" target="Normal">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Cliente" target="Gold">
+      <point x="17.0" y="-14.5" />
+      <point x="309.054183560634" y="230.2558053814965" />
+      <point x="392.554183560634" y="230.2558053814965" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Normal" target="Descontos">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Cliente" target="Funcionario">
+      <point x="-34.0" y="-14.5" />
+      <point x="258.054183560634" y="240.2558053814965" />
+      <point x="56.55418356063399" y="240.2558053814965" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Cliente" target="Platinum">
+      <point x="-17.0" y="-14.5" />
+      <point x="275.054183560634" y="230.2558053814965" />
+      <point x="180.054183560634" y="230.2558053814965" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Cliente" target="Descontos">
+      <point x="34.0" y="-14.5" />
+      <point x="326.054183560634" y="240.2558053814965" />
+      <point x="439.554183560634" y="240.2558053814965" />
+      <point x="439.554183560634" y="151.2558053814965" />
+      <point x="333.254183560634" y="151.2558053814965" />
+      <point x="41.19999999999999" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.2486013986013988" x="321.8420796146733" y="295.1861408035385" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
